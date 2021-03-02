@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/Hope-IT-Works?template=classic&config.timezone=Europe%2FBerlin)
+
 ### Hi there 👋
 
 #### 👷 Check out what I'm currently working on
