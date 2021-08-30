@@ -4,7 +4,7 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Hope-IT-Works/DCPS](https://github.com/Hope-IT-Works/DCPS) - Discord WebHook PowerShell Wrapper (2 months ago)
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 months ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (3 months ago)
 - [Hope-IT-Works/WinWebcamSettings](https://github.com/Hope-IT-Works/WinWebcamSettings) - tool to open standard webcam settings (7 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (11 months ago)
 
