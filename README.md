@@ -4,6 +4,7 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (today)
+- [Hope-IT-Works-Team/.github](https://github.com/Hope-IT-Works-Team/.github) -  (today)
 - [electerm/electerm-locales](https://github.com/electerm/electerm-locales) - Multi language files for electerm (6 days ago)
 - [Hope-IT-Works/DCPS](https://github.com/Hope-IT-Works/DCPS) - Discord WebHook PowerShell Wrapper (4 months ago)
 - [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when the TeamSpeak³-Client is not running (6 months ago)
