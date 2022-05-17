@@ -24,7 +24,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.3](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.3), today) - simple tool to kill processes
+- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), today) - simple tool to kill processes
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) ([v1.0](https://github.com/Hope-IT-Works/Explorestart/releases/tag/v1.0), today) - simple tool to restart explorer.exe on Windows
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
