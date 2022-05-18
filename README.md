@@ -3,12 +3,12 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (today)
-- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (today)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) -  (today)
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 day ago)
-- [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running (1 day ago)
+- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (today)
+- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (today)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (1 day ago)
+- [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running (1 day ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 day ago)
 - [Hope-IT-Works-Team/.github](https://github.com/Hope-IT-Works-Team/.github) -  (2 days ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (2 days ago)
 - [electerm/electerm-locales](https://github.com/electerm/electerm-locales) - Multi language files for electerm (1 week ago)
@@ -28,6 +28,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
+- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), today) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 1 day ago) - simple tool to kill processes
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) ([v1.0](https://github.com/Hope-IT-Works/Explorestart/releases/tag/v1.0), 1 day ago) - simple tool to restart explorer.exe on Windows
 
