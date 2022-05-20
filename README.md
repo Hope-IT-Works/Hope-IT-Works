@@ -4,6 +4,7 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (today)
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (today)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) -  (1 day ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (2 days ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (2 days ago)
@@ -12,10 +13,10 @@
 - [Hope-IT-Works-Team/.github](https://github.com/Hope-IT-Works-Team/.github) -  (4 days ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (4 days ago)
 - [electerm/electerm-locales](https://github.com/electerm/electerm-locales) - Multi language files for electerm (1 week ago)
-- [Hope-IT-Works/DCPS](https://github.com/Hope-IT-Works/DCPS) - Discord WebHook PowerShell Wrapper (5 months ago)
 
 #### 💡 My latest projects
 
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - 
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes
