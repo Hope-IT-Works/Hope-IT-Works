@@ -3,9 +3,9 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - script for setting up a caddy-server with PHP support (today)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (3 days ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (3 days ago)
-- [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - script for setting up a caddy-server with PHP support (3 days ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (5 days ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (5 days ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (6 days ago)
