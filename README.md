@@ -31,7 +31,6 @@
 
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 1 week ago) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 1 week ago) - simple tool to kill processes
-- [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) ([v1.0](https://github.com/Hope-IT-Works/Explorestart/releases/tag/v1.0), 1 week ago) - simple tool to restart explorer.exe on Windows
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
 
