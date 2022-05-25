@@ -3,6 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system (today)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (today)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - script for setting up a caddy-server with PHP support (1 day ago)
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php (1 day ago)
@@ -12,10 +13,10 @@
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 week ago)
 - [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running (1 week ago)
 - [Hope-IT-Works-Team/.github](https://github.com/Hope-IT-Works-Team/.github) -  (1 week ago)
-- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (1 week ago)
 
 #### 💡 My latest projects
 
+- [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style
@@ -25,7 +26,6 @@
 - [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running
 - [Hope-IT-Works/DCPS](https://github.com/Hope-IT-Works/DCPS) - Discord WebHook PowerShell Wrapper
 - [Hope-IT-Works/WinWebcamSettings](https://github.com/Hope-IT-Works/WinWebcamSettings) - tool to open standard webcam settings
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe
 
 #### 🎉 Latest releases I've contributed to
 
