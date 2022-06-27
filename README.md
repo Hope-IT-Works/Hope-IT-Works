@@ -3,6 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (today)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (5 days ago)
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php (4 weeks ago)
 - [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system (1 month ago)
@@ -12,7 +13,6 @@
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (1 month ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 month ago)
 - [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running (1 month ago)
-- [Hope-IT-Works-Team/.github](https://github.com/Hope-IT-Works-Team/.github) -  (1 month ago)
 
 #### 💡 My latest projects
 
