@@ -3,7 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (1 week ago)
+- [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (today)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (3 weeks ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (4 weeks ago)
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php (1 month ago)
@@ -12,7 +12,7 @@
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (2 months ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (2 months ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (2 months ago)
-- [Hope-IT-Works/ReSpeak](https://github.com/Hope-IT-Works/ReSpeak) - tool that restarts the TeamSpeak³-Client automatically when it&#39;s not running (2 months ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 months ago)
 
 #### 💡 My latest projects
 
