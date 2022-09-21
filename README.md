@@ -3,8 +3,8 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (today)
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (3 days ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 day ago)
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (4 days ago)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (1 week ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 month ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (2 months ago)
