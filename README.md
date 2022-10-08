@@ -8,7 +8,7 @@
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (2 weeks ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (2 weeks ago)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (2 weeks ago)
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (2 weeks ago)
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (3 weeks ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 month ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (2 months ago)
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php (4 months ago)
