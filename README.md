@@ -30,7 +30,7 @@
 #### 🎉 Latest releases I've contributed to
 
 - [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 3 months ago) - performance oriented modpack
-- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 6 months ago) - theme for electerm in termius style
+- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 7 months ago) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 7 months ago) - simple tool to kill processes
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
