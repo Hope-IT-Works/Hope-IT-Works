@@ -3,7 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (4 days ago)
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (5 days ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (2 months ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (3 months ago)
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (3 months ago)
@@ -29,7 +29,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 4 months ago) - performance oriented modpack
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 5 months ago) - performance oriented modpack
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 8 months ago) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 8 months ago) - simple tool to kill processes
 
