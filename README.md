@@ -12,7 +12,7 @@
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (4 months ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (4 months ago)
 - [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (4 months ago)
-- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (5 months ago)
+- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (6 months ago)
 
 #### 💡 My latest projects
 
