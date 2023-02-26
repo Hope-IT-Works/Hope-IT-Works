@@ -29,7 +29,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 5 months ago) - performance oriented modpack
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 6 months ago) - performance oriented modpack
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 9 months ago) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 9 months ago) - simple tool to kill processes
 
