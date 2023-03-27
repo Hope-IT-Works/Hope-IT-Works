@@ -3,6 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (today)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (2 weeks ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (3 weeks ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (2 months ago)
@@ -12,10 +13,10 @@
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (6 months ago)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (6 months ago)
 - [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack (6 months ago)
-- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (7 months ago)
 
 #### 💡 My latest projects
 
+- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support
 - [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement
@@ -25,7 +26,6 @@
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server
-- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes
 
 #### 🎉 Latest releases I've contributed to
 
