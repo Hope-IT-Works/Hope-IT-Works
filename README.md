@@ -4,11 +4,11 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (today)
-- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (2 weeks ago)
+- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (3 weeks ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (3 weeks ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (2 months ago)
-- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (5 months ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (5 months ago)
+- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (5 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (5 months ago)
 - [Hope-IT-Works/Explorestart](https://github.com/Hope-IT-Works/Explorestart) - simple tool to restart explorer.exe on Windows (6 months ago)
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds (6 months ago)
@@ -29,8 +29,8 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), today) - portable executable for repairing windows with windows sfc
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 6 months ago) - performance oriented modpack
+- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 1 day ago) - portable executable for repairing windows with windows sfc
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 7 months ago) - performance oriented modpack
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 10 months ago) - theme for electerm in termius style
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 10 months ago) - simple tool to kill processes
 
