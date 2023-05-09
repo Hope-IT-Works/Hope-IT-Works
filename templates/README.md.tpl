@@ -1,5 +1,5 @@
 ### Hey, I'm Tobi! 👋🏻
-22 year old IT-professional working at a german software company in Berlin.
+22 year old IT-professional working at a german web agency in Berlin.
 
 #### 🛠 Check out what I'm currently working on
 {{range recentContributions 10}}
