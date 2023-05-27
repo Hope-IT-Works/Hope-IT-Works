@@ -3,7 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (1 month ago)
+- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (2 months ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (2 months ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (2 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (4 months ago)
@@ -30,7 +30,7 @@
 #### 🎉 Latest releases I've contributed to
 
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 2 months ago) - portable executable for repairing windows with windows sfc
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 8 months ago) - performance oriented modpack
+- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) ([1.0.0](https://github.com/Hope-IT-Works/xedronmc/releases/tag/1.0.0), 9 months ago) - performance oriented modpack
 - [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) ([v1.4](https://github.com/Hope-IT-Works/Terminator/releases/tag/v1.4), 1 year ago) - simple tool to kill processes
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
