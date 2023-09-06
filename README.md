@@ -3,8 +3,9 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (today)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Unofficial open source SVG icon library from Bootstrap for Stream Deck. (today)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (today)
+- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (today)
 - [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp (1 week ago)
 - [Hope-IT-Works/WinWebcamSettings](https://github.com/Hope-IT-Works/WinWebcamSettings) - tool to open standard webcam settings (1 month ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (2 months ago)
@@ -12,10 +13,10 @@
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (6 months ago)
 - [Hope-IT-Works/caddy-php](https://github.com/Hope-IT-Works/caddy-php) - tool for setting up a caddy-server with PHP support and optional MariaDB-server (6 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (7 months ago)
-- [Hope-IT-Works/Terminator](https://github.com/Hope-IT-Works/Terminator) - simple tool to kill processes (10 months ago)
 
 #### 💡 My latest projects
 
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Unofficial open source SVG icon library from Bootstrap for Stream Deck.
 - [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support
@@ -25,7 +26,6 @@
 - [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system
 - [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools
-- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style
 
 #### 🎉 Latest releases I've contributed to
 
