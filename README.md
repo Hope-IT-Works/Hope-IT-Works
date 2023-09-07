@@ -4,7 +4,7 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Veteranfighter/Name](https://github.com/Veteranfighter/Name) -  (today)
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Unofficial open source SVG icon library from Bootstrap for Stream Deck. (1 day ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Unofficial open source SVG icon library from Bootstrap for Stream Deck. (today)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 day ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 day ago)
 - [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp (1 week ago)
