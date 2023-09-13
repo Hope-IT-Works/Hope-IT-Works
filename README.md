@@ -4,10 +4,10 @@
 #### 🛠 Check out what I'm currently working on
 
 - [Veteranfighter/daba-file-manager](https://github.com/Veteranfighter/daba-file-manager) -  (today)
-- [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp (2 days ago)
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - unofficial open source SVG icon library from Bootstrap for Stream Deck. (5 days ago)
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (6 days ago)
-- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (6 days ago)
+- [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp (3 days ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - unofficial open source SVG icon library from Bootstrap for Stream Deck. (6 days ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 week ago)
+- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 week ago)
 - [Hope-IT-Works/WinWebcamSettings](https://github.com/Hope-IT-Works/WinWebcamSettings) - tool to open standard webcam settings (1 month ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (2 months ago)
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (5 months ago)
