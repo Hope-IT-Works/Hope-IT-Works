@@ -3,7 +3,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - unofficial open source SVG icon library from Bootstrap for Stream Deck. (1 week ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - unofficial open source SVG icon library from Bootstrap for Stream Deck. (today)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 week ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 week ago)
 - [Veteranfighter/daba-file-manager](https://github.com/Veteranfighter/daba-file-manager) -  (1 month ago)
