@@ -30,7 +30,7 @@
 #### 🎉 Latest releases I've contributed to
 
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.11.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.11.1), 3 weeks ago) - Bootstrap&#39;s Icon Library for Stream Deck
-- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 7 months ago) - portable executable for repairing windows with windows sfc
+- [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 8 months ago) - portable executable for repairing windows with windows sfc
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
 
