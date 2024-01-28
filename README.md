@@ -3,8 +3,8 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (today)
-- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (5 days ago)
+- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 day ago)
+- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (6 days ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 month ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (1 month ago)
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (2 months ago)
@@ -29,7 +29,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.11.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.11.1), 2 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.11.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.11.1), 3 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 10 months ago) - portable executable for repairing windows with windows sfc
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 2 years ago) - theme for electerm in termius style
 
