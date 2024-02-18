@@ -8,7 +8,7 @@
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (1 week ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (2 weeks ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (3 weeks ago)
-- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (1 month ago)
+- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (2 months ago)
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (3 months ago)
 - [Veteranfighter/daba-file-manager](https://github.com/Veteranfighter/daba-file-manager) -  (5 months ago)
 - [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp (5 months ago)
