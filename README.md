@@ -3,8 +3,8 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (today)
-- [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization (today)
+- [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (1 day ago)
+- [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization (1 day ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 weeks ago)
 - [Veteranfighter/daba-file-manager](https://github.com/Veteranfighter/daba-file-manager) -  (3 weeks ago)
 - [Hope-IT-Works/twitter-discord-notification](https://github.com/Hope-IT-Works/twitter-discord-notification) - uses Playwright to receive Tweets from Twitter and notify on Discord if new Tweets are posted (2 months ago)
