@@ -23,9 +23,9 @@
 - [Hope-IT-Works/YTDL-Panel](https://github.com/Hope-IT-Works/YTDL-Panel) - web interface for yt-dlp
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support
-- [Hope-IT-Works/xedronmc](https://github.com/Hope-IT-Works/xedronmc) - performance oriented modpack
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds
+- [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system
 
 #### 🎉 Latest releases I've contributed to
 
