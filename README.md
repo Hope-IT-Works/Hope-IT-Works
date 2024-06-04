@@ -3,8 +3,8 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (5 days ago)
-- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (6 days ago)
+- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (6 days ago)
+- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 week ago)
 - [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization (2 weeks ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (2 weeks ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 month ago)
@@ -12,7 +12,7 @@
 - [Hope-IT-Works/twitter-discord-notification](https://github.com/Hope-IT-Works/twitter-discord-notification) - uses Playwright to receive Tweets from Twitter and notify on Discord if new Tweets are posted (2 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (2 months ago)
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (3 months ago)
-- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (3 months ago)
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (4 months ago)
 
 #### 💡 My latest projects
 
