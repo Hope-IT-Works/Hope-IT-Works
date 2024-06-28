@@ -3,8 +3,8 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 days ago)
-- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (4 weeks ago)
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (3 days ago)
+- [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (1 month ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 month ago)
 - [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization (1 month ago)
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (1 month ago)
