@@ -9,8 +9,8 @@
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) - theme for electerm in termius style (2 months ago)
 - [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization (2 months ago)
 - [Veteranfighter/daba-file-manager](https://github.com/Veteranfighter/daba-file-manager) -  (3 months ago)
-- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (4 months ago)
 - [Hope-IT-Works/twitter-discord-notification](https://github.com/Hope-IT-Works/twitter-discord-notification) - uses Playwright to receive Tweets from Twitter and notify on Discord if new Tweets are posted (4 months ago)
+- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (4 months ago)
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (5 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (5 months ago)
 
