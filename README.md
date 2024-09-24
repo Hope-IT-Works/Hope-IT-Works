@@ -29,7 +29,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.11.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.11.1), 10 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.11.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.11.1), 11 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) ([v1.0.0.0](https://github.com/Hope-IT-Works/WinRep/releases/tag/v1.0.0.0), 2 years ago) - portable executable for repairing windows with windows sfc
 - [Hope-IT-Works/electerm-theme-termius](https://github.com/Hope-IT-Works/electerm-theme-termius) ([v1.0](https://github.com/Hope-IT-Works/electerm-theme-termius/releases/tag/v1.0), 2 years ago) - theme for electerm in termius style
 
