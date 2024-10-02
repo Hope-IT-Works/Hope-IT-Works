@@ -12,7 +12,7 @@
 - [Hope-IT-Works/twitter-discord-notification](https://github.com/Hope-IT-Works/twitter-discord-notification) - uses Playwright to receive Tweets from Twitter and notify on Discord if new Tweets are posted (6 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (6 months ago)
 - [Hope-IT-Works/WinRep](https://github.com/Hope-IT-Works/WinRep) - portable executable for repairing windows with windows sfc (7 months ago)
-- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (7 months ago)
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (8 months ago)
 
 #### 💡 My latest projects
 
