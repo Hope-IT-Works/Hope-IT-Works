@@ -1,6 +1,8 @@
 ### Hey, I'm Tobi! 👋🏻
 24 year old IT-professional working at a german web agency in Berlin.
 
+![](https://komarev.com/ghpvc/?username=Hope-IT-Works&style=for-the-badge&base=287&abbreviated=true&color=107c10)
+
 #### 🛠 Check out what I'm currently working on
 
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (1 week ago)
