@@ -5,6 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/MC-Modpack-SkyJourney](https://github.com/Hope-IT-Works/MC-Modpack-SkyJourney) -  (today)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 week ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 week ago)
 - [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (3 months ago)
@@ -16,6 +17,7 @@
 
 #### 💡 My latest projects
 
+- [Hope-IT-Works/MC-Modpack-SkyJourney](https://github.com/Hope-IT-Works/MC-Modpack-SkyJourney) - 
 - [Hope-IT-Works/Bootstrap-Generator](https://github.com/Hope-IT-Works/Bootstrap-Generator) - repository for bootstrap project initialization
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck
@@ -25,7 +27,6 @@
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement
 - [Hope-IT-Works/JWGrabber](https://github.com/Hope-IT-Works/JWGrabber) - chrome extension for grabbing the source url of JW Player embeds
 - [Hope-IT-Works/portable-minecraft-server](https://github.com/Hope-IT-Works/portable-minecraft-server) - tool for running a minecraft server on any windows system
-- [Hope-IT-Works/Budibase-PHP](https://github.com/Hope-IT-Works/Budibase-PHP) - Budibase API wrapper for php
 
 #### 🎉 Latest releases I've contributed to
 
