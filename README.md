@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (2 weeks ago)
+- [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (3 weeks ago)
 - [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (2 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (2 months ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 months ago)
