@@ -5,13 +5,13 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (1 week ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (2 weeks ago)
 - [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (2 months ago)
 - [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (3 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (4 months ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (4 months ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (4 months ago)
-- [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (7 months ago)
+- [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (8 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (8 months ago)
 
 #### 💡 My latest projects
@@ -29,7 +29,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 1 week ago) - Bootstrap&#39;s Icon Library for Stream Deck
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 2 weeks ago) - Bootstrap&#39;s Icon Library for Stream Deck
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
 
