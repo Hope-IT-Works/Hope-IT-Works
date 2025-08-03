@@ -12,7 +12,7 @@
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (5 months ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (5 months ago)
 - [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (8 months ago)
-- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (8 months ago)
+- [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (9 months ago)
 
 #### 💡 My latest projects
 
