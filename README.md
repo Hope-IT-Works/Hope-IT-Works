@@ -5,12 +5,13 @@
 
 #### 🛠 Check out what I'm currently working on
 
+- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (today)
+- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (today)
+- [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (today)
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (1 month ago)
 - [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (3 months ago)
 - [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (5 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (5 months ago)
-- [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (5 months ago)
-- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (5 months ago)
 - [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (9 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (9 months ago)
 
