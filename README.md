@@ -11,7 +11,7 @@
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (2 months ago)
 - [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (4 months ago)
 - [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (5 months ago)
-- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (5 months ago)
+- [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (6 months ago)
 - [ErdbeerbaerLP/Discord-Integration-Translations](https://github.com/ErdbeerbaerLP/Discord-Integration-Translations) - Repository containing localizations for the Discord Integration mod (9 months ago)
 - [Hope-IT-Works/ps-tools](https://github.com/Hope-IT-Works/ps-tools) - personal collection of useful PowerShell-functions (10 months ago)
 
