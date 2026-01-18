@@ -9,7 +9,7 @@
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (5 months ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (5 months ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (5 months ago)
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (6 months ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (7 months ago)
 - [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (10 months ago)
 - [Hope-IT-Works/windows-system-tools](https://github.com/Hope-IT-Works/windows-system-tools) - list of windows-system related tools (10 months ago)
 
@@ -28,7 +28,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 6 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 7 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
 
