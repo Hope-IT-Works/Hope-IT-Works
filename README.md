@@ -10,7 +10,6 @@
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (7 months ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (7 months ago)
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (8 months ago)
-- [xedron-Studios/xedron-Studios](https://github.com/xedron-Studios/xedron-Studios) -  (1 year ago)
 
 #### 💡 My latest projects
 
