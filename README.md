@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows. (2 days ago)
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows. (3 days ago)
 - [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (4 months ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (8 months ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (8 months ago)
@@ -27,7 +27,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v1.6.2](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v1.6.2), 2 days ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v1.6.2](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v1.6.2), 3 days ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 - [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 9 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
