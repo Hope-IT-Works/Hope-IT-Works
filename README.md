@@ -11,7 +11,7 @@
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (9 months ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (9 months ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (9 months ago)
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (10 months ago)
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) - Bootstrap&#39;s Icon Library for Stream Deck (11 months ago)
 
 #### 💡 My latest projects
 
@@ -28,8 +28,8 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.2.1](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.2.1), 4 days ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
-- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 10 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.2.1](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.2.1), 5 days ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
+- [Hope-IT-Works/bootstrap-icons-stream-deck](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck) ([1.13.1](https://github.com/Hope-IT-Works/bootstrap-icons-stream-deck/releases/tag/1.13.1), 11 months ago) - Bootstrap&#39;s Icon Library for Stream Deck
 
 ![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
 
