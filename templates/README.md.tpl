@@ -21,5 +21,4 @@
 <hr>
 
 [![Tobias Meyer's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)
-
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)
