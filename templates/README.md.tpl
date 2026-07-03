@@ -18,6 +18,8 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
+[![Tobias Meyer's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)
