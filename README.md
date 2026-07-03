@@ -32,6 +32,8 @@
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) ([v1.0.0](https://github.com/Hope-IT-Works/m365-timeslot-finder/releases/tag/v1.0.0), 1 week ago) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text
 - [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([release-7e8c878](https://github.com/EtienneLescot/n8n-as-code/releases/tag/release-7e8c878), 3 weeks ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 
-![Tobias Meyer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hope-IT-Works&show_icons=true&theme=dark&include_all_commits=true&bg_color=1e1e1e&icon_color=00ff00&text_color=c3c3c3)
+[![Tobias Meyer's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Hope-IT-Works&show_icons=true&include_all_commits=true&theme=transparent)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Hope-IT-Works&layout=compact&langs_count=8&theme=transparent)
