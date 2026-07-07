@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (3 days ago)
+- [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (4 days ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 week ago)
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text (2 weeks ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 weeks ago)
