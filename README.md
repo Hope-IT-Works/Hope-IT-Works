@@ -29,8 +29,8 @@
 
 #### 🎉 Latest releases I've contributed to
 
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.4.1](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.4.1), today) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) ([v1.0.0](https://github.com/Hope-IT-Works/m365-timeslot-finder/releases/tag/v1.0.0), 3 weeks ago) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([release-7e8c878](https://github.com/EtienneLescot/n8n-as-code/releases/tag/release-7e8c878), 1 month ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 
 <hr>
 
