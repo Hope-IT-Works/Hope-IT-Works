@@ -4,9 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=Hope-IT-Works&style=for-the-badge&base=287&abbreviated=true&color=107c10)
 
 #### 🛠 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+Recent activity is temporarily omitted from the generated README to keep the automation working reliably.
 
 #### 💡 My latest projects
 {{range recentRepos 10}}
