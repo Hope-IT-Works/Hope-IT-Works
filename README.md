@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (5 days ago)
+- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (6 days ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (2 weeks ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 month ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 month ago)
@@ -31,7 +31,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.5.0](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.5.0), 1 week ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.5.0](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.5.0), 2 weeks ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) ([v1.0.0](https://github.com/Hope-IT-Works/m365-timeslot-finder/releases/tag/v1.0.0), 1 month ago) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text
 
 <hr>
