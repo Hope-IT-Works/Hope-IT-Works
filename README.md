@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (1 week ago)
+- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (2 weeks ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (3 weeks ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 month ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (1 month ago)
@@ -13,7 +13,7 @@
 - [Hope-IT-Works/Perforce-P4-Docker](https://github.com/Hope-IT-Works/Perforce-P4-Docker) - Community docker containers of the Perforce P4 suite (2 months ago)
 - [Hope-IT-Works/spotify-ai-panel](https://github.com/Hope-IT-Works/spotify-ai-panel) - Let AI take a look at your playlists and make changes (2 months ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (3 months ago)
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows. (3 months ago)
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows. (4 months ago)
 - [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (8 months ago)
 
 #### 💡 My latest projects
