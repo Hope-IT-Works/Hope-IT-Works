@@ -5,7 +5,7 @@
 
 #### 🛠 Check out what I'm currently working on
 
-- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (4 weeks ago)
+- [Hope-IT-Works/Hygge](https://github.com/Hope-IT-Works/Hygge) - minimal, self-hosted DNS stack (1 month ago)
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 month ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (1 month ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (2 months ago)
