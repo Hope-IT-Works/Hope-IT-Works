@@ -9,7 +9,7 @@
 - [Hope-IT-Works/PS2EXE-GUI](https://github.com/Hope-IT-Works/PS2EXE-GUI) - advanced graphical user interface for ps2exe (1 month ago)
 - [Hope-IT-Works/playwright-template](https://github.com/Hope-IT-Works/playwright-template) - Template repository for playwright projects (2 months ago)
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (2 months ago)
-- [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text (2 months ago)
+- [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text (3 months ago)
 - [Hope-IT-Works/Perforce-P4-Docker](https://github.com/Hope-IT-Works/Perforce-P4-Docker) - Community docker containers of the Perforce P4 suite (3 months ago)
 - [Hope-IT-Works/spotify-ai-panel](https://github.com/Hope-IT-Works/spotify-ai-panel) - Let AI take a look at your playlists and make changes (3 months ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (4 months ago)
@@ -31,7 +31,7 @@
 
 #### 🎉 Latest releases I've contributed to
 
-- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.7.0](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.7.0), 6 days ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
+- [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) ([v2.7.0](https://github.com/EtienneLescot/n8n-as-code/releases/tag/v2.7.0), 1 week ago) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows.
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) ([v1.0.0](https://github.com/Hope-IT-Works/m365-timeslot-finder/releases/tag/v1.0.0), 2 months ago) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text
 
 <hr>
