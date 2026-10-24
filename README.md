@@ -11,10 +11,10 @@
 - [Hope-IT-Works/XEDPASS](https://github.com/Hope-IT-Works/XEDPASS) - a selfhosted authorization kit for web developement (3 months ago)
 - [Hope-IT-Works/m365-timeslot-finder](https://github.com/Hope-IT-Works/m365-timeslot-finder) - Chrome Extension that finds free time slots in Microsoft 365 Outlook and provides them as copyable text (4 months ago)
 - [Hope-IT-Works/Perforce-P4-Docker](https://github.com/Hope-IT-Works/Perforce-P4-Docker) - Community docker containers of the Perforce P4 suite (4 months ago)
-- [Hope-IT-Works/spotify-ai-panel](https://github.com/Hope-IT-Works/spotify-ai-panel) - Let AI take a look at your playlists and make changes (4 months ago)
+- [Hope-IT-Works/spotify-ai-panel](https://github.com/Hope-IT-Works/spotify-ai-panel) - Let AI take a look at your playlists and make changes (5 months ago)
 - [Hope-IT-Works/WCMP](https://github.com/Hope-IT-Works/WCMP) - tool for setting up a caddy-server with PHP and MariaDB support (5 months ago)
 - [EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700&#43; templates, Git-like sync, and TypeScript workflows. (6 months ago)
-- [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (10 months ago)
+- [xedron-Studios/MC-Modpack-SkyJourney](https://github.com/xedron-Studios/MC-Modpack-SkyJourney) - Minecraft Modpack (11 months ago)
 
 #### 💡 My latest projects
 
